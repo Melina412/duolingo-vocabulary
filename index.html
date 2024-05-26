@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#3a3695" />
+    <meta
+      name="theme-color"
+      content="#7384f4"
+      media="(prefers-color-scheme: dark)" />
+    <title>Vocabulary</title>
+    <link rel="stylesheet" href="./src/style/index.css" />
+    <link rel="stylesheet" href="./src/style/css/media.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Duolingo Vocabulary</h1>
+      <menu>
+        <button id="hide-words" class="nav">hide all words</button>
+        <button id="show-words" class="hidden nav">show all words</button>
+        <button id="hide-trans" class="nav">hide all translations</button>
+        <button id="show-trans" class="hidden nav">
+          show all translations
+        </button>
+      </menu>
+    </header>
+    <main>
+      <section>
+        <ul id="list"></ul>
+      </section>
+    </main>
+    <footer>
+      <div class="pagination">
+        <button id="prevButton" class="nav">previous page</button>
+        <p id="page">1</p>
+        <button id="nextButton" class="nav">next page</button>
+      </div>
+    </footer>
+    <script src="./src/main.js"></script>
+  </body>
+</html>

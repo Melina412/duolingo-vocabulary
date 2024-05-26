@@ -1,0 +1,935 @@
+[
+  {
+    "learnedLexemes": [
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      }
+    ],
+    "pagination": {
+      "totalLexemes": 9999,
+      "requestedPageSize": 50,
+      "pageSize": 50,
+      "previousStartIndex": 0,
+      "nextStartIndex": 100
+    }
+  },
+  {
+    "learnedLexemes": [
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      }
+    ],
+    "pagination": {
+      "totalLexemes": 9999,
+      "requestedPageSize": 50,
+      "pageSize": 50,
+      "previousStartIndex": null,
+      "nextStartIndex": 50
+    }
+  },
+  {
+    "learnedLexemes": [
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      },
+      {
+        "text": "〇〇",
+        "translations": ["translation_1", "translation_2"],
+        "audioURL": "./src/data/sample-audio.mp3",
+        "isNew": true
+      }
+    ],
+    "pagination": {
+      "totalLexemes": 9999,
+      "requestedPageSize": 50,
+      "pageSize": 50,
+      "previousStartIndex": 50,
+      "nextStartIndex": 150
+    }
+  }
+]

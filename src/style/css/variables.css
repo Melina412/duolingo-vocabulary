@@ -1,0 +1,55 @@
+:root {
+  --bg-base: white; /* bg base */
+  --text-base: #32455e; /* base cont */
+  --text-neutral: #bec4cc; /* neutral cont */
+  --bg-primary: #3a3695; /* bg primary */
+  --text-primary: #cfd2eb; /* primary cont */
+  --bg-secondary: #0063ff; /* secondary */
+  --text-secondary: #c7e1ff; /* secondary cont */
+  --border-color: #d6dadf; /* border */
+
+  --text-hidden: #3a3695; /* bg base */
+  --border-hidden: #cfd2eb; /* primary cont */
+  --background-hidden: #3a3695; /* bg primary  */
+  --button-color: #cfd2eb; /* primary cont */
+  --button-text: black;
+}
+
+body.dark-mode {
+  --bg-base: #101725; /* bg base */
+  --text-base: #d6dadf; /* base cont */
+  --text-neutral: #a0a3a7; /*  neutral cont */
+  --bg-primary: #7384f4; /* primary */
+  --text-primary: #0a0b15; /* primary cont */
+  --bg-secondary: #34b7f4; /* bg secondary */
+  --text-secondary: #041015; /* secondary cont */
+  --border-color: #343946; /* border */
+
+  --text-hidden: #34b7f4; /* bg base */
+  --border-hidden: #041015; /* primary cont */
+  --background-hidden: #34b7f4; /* bg primary  */
+  --button-color: #7384f4; /* primary cont */
+  --button-text: black;
+}
+
+/** light mode */
+/* base #FFFFFF */
+/* base content #32455E (in light mode dunkel grau) */
+/* primary #3A3695 */
+/* primary content #CFD2EB */
+/* secondary #0063FF */
+/* secondary content #C7E1FF */
+/* base 200 #F0F6FF */
+/* neutral cont #BEC4CC (heller als base cont) */
+/* border ? #D6DADF */
+
+/** dark mode */
+/* base #101725 */
+/* base content #C1C4CA */
+/* primary #34B7F4 */
+/* primary content #041015 */
+/* secondary #7384F4 */
+/* secondary content #0A0B15 */
+/* base 200 #0F1421 */
+/* neutral cont #C6C9CE (heller als base cont */
+/* border ? #343946 */

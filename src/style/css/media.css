@@ -1,0 +1,30 @@
+@import './variables.css';
+@import './fonts.css';
+
+@media (min-width: 576px) {
+  button.play {
+    width: 6rem;
+    height: 4rem;
+    user-select: none;
+    -webkit-user-select: none;
+    border-radius: 10%;
+  }
+
+  p.word {
+    font-size: 6rem;
+    font-family: KleeOne;
+  }
+
+  p.translation {
+    font-family: RobotoLight;
+    font-size: 1.6rem;
+  }
+
+  p.hidden {
+    width: 25%;
+  }
+
+  div.message {
+    top: 40%;
+  }
+}

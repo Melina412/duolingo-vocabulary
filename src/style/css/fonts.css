@@ -1,0 +1,23 @@
+@font-face {
+  font-family: KleeOne;
+  src: url('../font/KleeOne/KleeOne-Regular.ttf');
+}
+@font-face {
+  font-family: KleeOneSemiBold;
+  src: url('../font/KleeOne/KleeOne-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: RobotoMedium;
+  src: url('../font/Roboto/Roboto-Medium.ttf');
+}
+
+@font-face {
+  font-family: RobotoRegular;
+  src: url('../font/Roboto/Roboto-Regular.ttf');
+}
+
+@font-face {
+  font-family: RobotoLight;
+  src: url('../font/Roboto/Roboto-Light.ttf');
+}
