@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', async () => {
   const res = await fetch('./src/data/words.json');
   const data = await res.json();
-  console.log({ data });
+  // console.log({ data });
 
   const container = document.getElementById('list');
   const prevButton = document.getElementById('prevButton');
@@ -14,8 +14,8 @@ document.addEventListener('DOMContentLoaded', async () => {
     const start = page * limit; // page -> funktionsparameter = currentPage. der initiale wert von page ist also 0
     const end = start + limit;
     let index = start; // index (global) erhöht sich um die anzahl der generierten elemente pro durchlauf (50)
-    console.log({ index });
-    console.log({ page });
+    // console.log({ index });
+    // console.log({ page });
 
     // die differenz zw. start & end ist immer 50
     for (let i = start; i < end && i < data.length * limit; i++) {
@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         audioDiv.appendChild(button);
         index++;
         window.scrollTo({ top: 0, behavior: 'smooth' });
-        console.log({ wordText, translationsText, itemIndex, pageIndex });
+        // console.log({ wordText, translationsText, itemIndex, pageIndex });
       }
     }
     const pageCounter = document.getElementById('page');
@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   prevButton.addEventListener('click', () => {
     if (currentPage > 0) {
       currentPage--;
-      console.log({ currentPage });
+      // console.log({ currentPage });
       displayPage(currentPage);
     }
   });
@@ -116,12 +116,12 @@ document.addEventListener('DOMContentLoaded', async () => {
   nextButton.addEventListener('click', () => {
     if ((currentPage + 1) * limit < data.length * limit) {
       currentPage++;
-      console.log({ currentPage });
+      // console.log({ currentPage });
       displayPage(currentPage);
     }
   });
 
-  console.log({ currentPage });
+  // console.log({ currentPage });
   displayPage(currentPage);
 });
 
@@ -134,7 +134,7 @@ const showTransButton = document.getElementById('show-trans');
 
 hideWordsButton.addEventListener('click', () => {
   const words = document.getElementsByClassName('word');
-  console.log({ words });
+  // console.log({ words });
   // HTMLCollection muss zum interieren erst in array umgewandelt werden
   [...words].forEach((word) => {
     if (!word.classList.contains('hidden')) {
@@ -151,7 +151,7 @@ hideWordsButton.addEventListener('click', () => {
 
 showWordsButton.addEventListener('click', () => {
   const words = document.getElementsByClassName('word');
-  console.log({ words });
+  // console.log({ words });
   [...words].forEach((word) => {
     if (word.classList.contains('hidden')) {
       word.classList.remove('hidden');
@@ -165,7 +165,7 @@ showWordsButton.addEventListener('click', () => {
 
 hideTransButton.addEventListener('click', () => {
   const trans = document.getElementsByClassName('translation');
-  console.log({ trans });
+  // console.log({ trans });
   [...trans].forEach((trans) => {
     if (!trans.classList.contains('hidden')) {
       trans.classList.add('hidden');
@@ -181,7 +181,7 @@ hideTransButton.addEventListener('click', () => {
 
 showTransButton.addEventListener('click', () => {
   const trans = document.getElementsByClassName('translation');
-  console.log({ trans });
+  // console.log({ trans });
   [...trans].forEach((trans) => {
     if (trans.classList.contains('hidden')) {
       trans.classList.remove('hidden');

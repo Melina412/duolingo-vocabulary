@@ -1,5 +1,9 @@
 # Duolingo Vocabulary
 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
+
 ## What?
 
 A personal vocabulary list with data from duolingo where you can hide/show all the learned words and translations at once or manually and also play audio files.
