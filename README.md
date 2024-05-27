@@ -29,4 +29,8 @@ There is a dark mode and versions for desktop and mobile.
 ![preview 1](src/github/preview-dark.png)
 ![preview 2](src/github/preview-light.png)
 
-I totally didn't waste the whole weekend for this project and absolutely didn't start it just to have another reason to procratinate what I should be actually doing.
+## Conclusion
+
+I totally did not waste the whole weekend on this project and absolutely did not start it just to have another reason to procrastinate what I should be actually doing.
+
+<img width="400px" src="./src/github/meme.jpg" />
