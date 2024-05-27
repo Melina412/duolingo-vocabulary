@@ -33,4 +33,4 @@ There is a dark mode and versions for desktop and mobile.
 
 I totally did not waste the whole weekend on this project and absolutely did not start it just to have another reason to procrastinate what I should be actually doing.
 
-<img width="400px" src="./src/github/meme.jpg" />
+<img width="400px" src="./src/github/meme.png" />
